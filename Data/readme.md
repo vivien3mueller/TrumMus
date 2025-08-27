@@ -2,7 +2,7 @@ In diesem Ordner befinden sich die Daten, aus denen die beiden Korpora
 (Trump: t_combined_all.json) und (Musk: all_musk_posts.csv)
 bestehen.
 
-- Files mit Monatsangaben: 2021-2024: wurden einzeln mit je 2.000 Posts von https://www.thetrumparchive.com heruntergeladen
+- Files mit Monatsangaben in TTA: 2021-2024: wurden einzeln mit je 2.000 Posts von https://www.thetrumparchive.com heruntergeladen
 (allerdings waren es fehlerhafte json-Dateien, die extra angepasst werden mussten)
 - factbase_posts_clean.json: 2024-2025: ca. 5.000 Posts von https://rollcall.com/factbase-twitter/?platform=all&sort=date&sort_order=desc&page=1 gescrapt
 - tweets_01-08-2021.json: 2009-2021: von https://www.thetrumparchive.com heruntergeladen
