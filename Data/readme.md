@@ -1,5 +1,5 @@
 In diesem Ordner befinden sich die Daten, aus denen die beiden Korpora
-(Trump: t_combined_all.json) und (Musk: all_musk_posts.csv)
+(Trump: tta_final_clean.json) und (Musk: all_musk_posts.csv)
 bestehen.
 
 - Files mit Monatsangaben in TTA: 2021-2024: wurden einzeln mit je 2.000 Posts von https://www.thetrumparchive.com heruntergeladen
@@ -10,7 +10,7 @@ bestehen.
 - t_combined_all.json: 2009-2025: alle Daten kombiniert, aber noch mit html tags und ohne Plattform als Spalte, zudem mit Duplikaten; shape = 87534, 13
 - tta_final.json: ohne Duplikate, mit Plattform, mit html tags
   
-- tta_final_clean.json: finale Datei ohne html-Schnipsel; shape = 85548, 14
+- tta_final_clean.json: finale Datei ohne html-Schnipsel, mit korrigiertem Datum und korrigierten IDs; shape = 85548, 14
 
 - all_musk_posts.csv: 2010-2025: shape = 54461, 24
 - a_musk_quote_tweets.csv: 2010-2025: shape = 7147, 21
