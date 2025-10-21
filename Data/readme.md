@@ -7,9 +7,6 @@ bestehen.
 - factbase_posts_clean.json: 2024-2025: ca. 5.000 Posts von https://rollcall.com/factbase-twitter/?platform=all&sort=date&sort_order=desc&page=1 gescrapt
 - tweets_01-08-2021.json: 2009-2021: von https://www.thetrumparchive.com heruntergeladen
 - tta_full.json: 2009-2024: Kombination aus den Monatsfiles und tweets_01-08-2021.json; shape = 80358, 9
-- t_combined_all.json: 2009-2025: alle Daten kombiniert, aber noch mit html tags und ohne Plattform als Spalte, zudem mit Duplikaten; shape = 87534, 13
-- tta_final.json: ohne Duplikate, mit Plattform, mit html tags
-  
 - tta_final_clean.json: finale Datei ohne html-Schnipsel, mit korrigiertem Datum und korrigierten IDs; shape = 85548, 14
 
 - all_musk_posts.csv: 2010-2025: shape = 54461, 24
