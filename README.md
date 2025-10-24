@@ -4,9 +4,9 @@ Analyse der Social-Media-Kommunikationsstrategien von Trump und Musk mittels CAD
 Inhalt des Repositorys:
 - BA_[Vivien_Müller]_CL.pdf: die Bachelorarbeit
 - Data: die Daten, auf denen die beiden Korpora TRUMP und MUSK basieren
-- Testkorpus: alle Dateien, mit gestesteten Taggervarianten, um dann den besten Tagger
+- Testkorpus: alle Dateien, mit getesteten Taggervarianten, um dann den besten Tagger
 auszuwählen
-- requirements_*.txt: _pytorch.txt für Notebook 01, 02, 03; _flexiconc.txt für Notebook 04; _cwb.txt für Notebook 05 und 06
+- requirements: _pytorch.txt für Notebook 01, 02, 03; _flexiconc.txt für Notebook 04; _cwb.txt für Notebook 05 und 06
 - Die nummerierten Notebooks, die die einzelnen Arbeitsschritte des Projekts behandeln:
 * 01 Datenbeschaffung+Vorverarbeitung_Trump.ipynb: Scraping und Herunterladen von Trumps Tweets & Vorverarbeitung der Posts
 * 02 Tagging_Testkorpus.ipynb: Tests verschiedener Tagger anhand eines Testdatensatzes
