@@ -12,6 +12,6 @@ auszuwählen
 * 02 Tagging_Testkorpus.ipynb: Tests verschiedener Tagger anhand eines Testdatensatzes
 * 03 Vorverarbeitung_Musk+Tagger.ipynb: Vorverarbeitung von Musks Tweets und Tagging beider Korpora
 * 04 CWB_cwb-ccc.ipynb: Indexieren beider Korpora in CWB und Analyse mit cwb-ccc
-* 05 FlexiConc_Analyse.ipynb: Analyse mit FlexiConc
-* 06 Kommunikationsstrategien.ipynb: Analyse der Kommunikationsstrategien
+* 05 FlexiConc_Analyse.ipynb: Analyse der Kommunikationsstrategien mit FlexiConc Teil 1
+* 06 FlexiConc_Kommunikationsstrategien.ipynb: Analyse der Kommunikationsstrategien Teil 2
 * 07 Semmap_Statistik.ipynb: Darstellung der Keywords beider Korpora mit Semmap
