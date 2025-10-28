@@ -14,4 +14,3 @@ auszuwählen
 * 04 CWB_cwb-ccc.ipynb: Indexieren beider Korpora in CWB und Analyse mit cwb-ccc
 * 05 FlexiConc_Analyse.ipynb: Analyse der Kommunikationsstrategien mit FlexiConc Teil 1
 * 06 FlexiConc_Kommunikationsstrategien.ipynb: Analyse der Kommunikationsstrategien Teil 2
-* 07 Semmap_Statistik.ipynb: Darstellung der Keywords beider Korpora mit Semmap
