@@ -8,6 +8,7 @@ bestehen.
 - tweets_01-08-2021.json: 2009-2021: von https://www.thetrumparchive.com heruntergeladen
 - tta_full.json: 2009-2024: Kombination aus den Monatsfiles und tweets_01-08-2021.json; shape = 80358, 9
 - tta_final_clean.json: finale Datei ohne html-Schnipsel, mit korrigiertem Datum und korrigierten IDs; shape = 85548, 14
+- trump_copy.zip: indexiertes Korpus TRUMP
 
 - all_musk_posts.csv: 2010-2025: shape = 54461, 24
 - a_musk_quote_tweets.csv: 2010-2025: shape = 7147, 21
